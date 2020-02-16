@@ -1,0 +1,12 @@
+@import '../../node_modules/antd/dist/antd.css';
+@import "Topbar.css";
+@import "Register.css";
+@import "Login.css";
+@import "Home.css";
+@import "Gallery.css";
+@import "Main.css";
+@import "AroundMarker.css";
+
+.App {
+  text-align: center;
+}
